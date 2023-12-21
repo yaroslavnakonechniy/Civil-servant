@@ -182,10 +182,67 @@
                 </div>
 
             </div>
+           
+            </div>
 
 
         </main>
+        <div class="main-link">
+                <div class="link-top">
+                    <div class="link-left">
+                       <h1>Посилання</h1> 
+                    </div>
+                    <div class="link-center"></div>
+                    <div class="link-right">
+                        <img src="/storage/app/public/IconLeft.png" alt="">
+                        <img src="/storage/app/public/IconRight.png" alt="">
+                    </div>
+                </div>
+                
+                <div class="link-item">
+                    <div class="items">
+                        <img src="/storage/app/public/Frame 24.png" alt="">
+                    </div>
+                    <div class="items">
+                        <img src="/storage/app/public/Frame 25.png" alt="">
+                    </div>
+                    <div class="items">
+                        <img src="/storage/app/public/Frame 26.png" alt="">
+                    </div>
+                    <div class="items">
+                        <img src="/storage/app/public/Frame 27.png" alt="">
+                    </div>
+                    <div class="items">
+                        <img src="/storage/app/public/Frame 25.png" alt="">
+                    </div>
+                </div>
+        </div>
+        <div class="maps">
+            <div class="maps-item">
+                <h1>Мапа порталу
+                    <img src="/storage/app/public/chevron2.3.png" alt="">
+                </h1>
+            </div>
+        </div>
         <footer class="footer">
+            <div class="footer-left">
+                © 2016-2023 Головне управління Держпродспоживслужби в Кіровоградській області.
+                <br>
+                Усі права на матеріали, що розміщено на даному сайті, охороняються відповідно до чинного законодавства України.
+                При будь-якому використанні матеріалів сайту, гіперпосилання на сайт обов'язкове.</br>
+            </div>
+            <div class="footer-center">
+                <a href="#" class="foot-soc-link">
+                    <img src="/storage/app/public/Exclude.png" alt="">
+                </a>
+                <a href="#" class="foot-soc-link">
+                    <img src="/storage/app/public/Vector.png" alt="">
+                </a>
+            </div>
+            <div class="footer-right">
+                Розробка сайту:
+                Yarosalv Nakonechnyi
+            </div>
 
         </footer>
     </div>
