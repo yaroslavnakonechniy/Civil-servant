@@ -187,10 +187,51 @@ ul{
     letter-spacing: 0em;
     text-align: left;
 }
+
+.link-top{
+    display: grid;
+    grid-template: 1fr / minmax(auto,1200px) minmax(auto,1200px) minmax( auto, 1200px) ;
+}
+.link-left{
+    padding: 15px;
+    
+}
+.link-right{
+    padding-top: 40px;
+    text-align: center;
+}
+.link-item{
+
+    display: grid;
+    grid-auto-flow: column;
+}
+.maps{
+    padding: 15px;
+    display: grid;
+    grid-auto-flow: column;
+}
 .footer{
     grid-area: footer;
-    background: #C2C5CB;
+    background: #f4f4f4;
+    display: grid;
+    grid-template: 1fr / minmax(auto,1000px) 1fr minmax( auto, 150px) ;
+    padding: 10px;
 
+    
+}
+.footer-left{
+    font-family: Proba Pro;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
 
+}
+
+.footer-center{
+    
+    text-align: center;
+    padding-top: 20px;
 }
 
